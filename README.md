@@ -61,4 +61,9 @@ npm run dev
 The frontend will be available at:
 http://localhost:3000
 
+3D Model Preview
+![3D Model Preview](./NextJs-Frontend/nextjs-app/public/image.png)
+
+
+[Download 3D Model (capsule.obj)](./NextJs-Frontend/nextjs-app/public/capsule.obj)
 
