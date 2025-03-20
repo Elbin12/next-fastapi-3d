@@ -5,15 +5,6 @@ This project displays a 3D model in a browser using **Next.js** and **Three.js**
 
 ---
 
-## **Prerequisites**
-Make sure you have the following installed:
-
-- **Node.js** (for the frontend)
-- **Python 3.x** (for the backend)
-- **pip** (for managing Python dependencies)
-
----
-
 ## **Setup Instructions**
 
 ### **1. Clone the Repository**
